@@ -1,0 +1,13 @@
+1. Install Hadoop 2 (hadoop-2.5.0-cdh5.3.2)
+2. download TFIDF.jar
+3. Make Directory on HDFS
+	hadoop fs -mkdir /user/hadoop/input
+4. Use load_data.sh to put the dataset on HDFS folder created.
+5. Run the TFIDF.jar
+        hadoop jar /home/.../TFIDF.jar tfidf.TfidfAggregator /user/hadoop/input output
+
+6. Read the output on HDFS
+	
+	
+
+

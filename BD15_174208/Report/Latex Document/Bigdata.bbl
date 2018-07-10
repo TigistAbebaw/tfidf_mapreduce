@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+
+\bibitem{f}
+B.~F. Cooper, A.~Silberstein, E.~Tam, R.~Ramakrishnan, and R.~Sears.
+\newblock Benchmarking cloud serving systems with ycsb.
+\newblock In {\em Proceedings of the 1st ACM symposium on Cloud computing},
+  pages 143--154. ACM, 2010.
+
+\bibitem{b}
+J.~Dean and S.~Ghemawat.
+\newblock Mapreduce: simplified data processing on large clusters.
+\newblock {\em Communications of the ACM}, 51(1):107--113, 2008.
+
+\bibitem{a}
+B.~Li and Y.~Guoyong.
+\newblock Improvement of tf-idf algorithm based on hadoop framework.
+\newblock In {\em Computer Application and System Modeling International
+  Conference Proceedings, Computer Science and Electronic Technology
+  International Society}, pages 0391--0393, 2012.
+
+\bibitem{c}
+D.~Miner and A.~Shook.
+\newblock {\em MapReduce Design Patterns: Building Effective Algorithms and
+  Analytics for Hadoop and Other Systems}.
+\newblock " O'Reilly Media, Inc.", 2012.
+
+\bibitem{g}
+T.~Rabl, S.~G{\'o}mez-Villamor, M.~Sadoghi, V.~Munt{\'e}s-Mulero, H.-A.
+  Jacobsen, and S.~Mankovskii.
+\newblock Solving big data challenges for enterprise application performance
+  management.
+\newblock {\em Proceedings of the VLDB Endowment}, 5(12):1724--1735, 2012.
+
+\bibitem{h}
+T.~Rabl, S.~G{\'o}mez-Villamor, M.~Sadoghi, V.~Munt{\'e}s-Mulero, H.-A.
+  Jacobsen, and S.~Mankovskii.
+\newblock Solving big data challenges for enterprise application performance
+  management.
+\newblock {\em Proceedings of the VLDB Endowment}, 5(12):1724--1735, 2012.
+
+\bibitem{d}
+K.~Shvachko, H.~Kuang, S.~Radia, and R.~Chansler.
+\newblock The hadoop distributed file system.
+\newblock In {\em 2010 IEEE 26th symposium on mass storage systems and
+  technologies (MSST)}, pages 1--10. IEEE, 2010.
+
+\end{thebibliography}
